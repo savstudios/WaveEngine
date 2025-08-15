@@ -1,2 +1,2 @@
-# WaveEngine
+# Wave
 Wave Engine
